@@ -5,6 +5,7 @@
 <p align="center">
 <img src="/img/pokedex.gif"/>
 </p>
+
 ### 🔖 Sobre
 
 Esse projeto foi desenvolvido em javascript afim fortalecer habilidades na linguagem e estudar o consumo de API.
